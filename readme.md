@@ -133,7 +133,7 @@ Das folgende Diagramm zeigt die Modellklassen, die in der Applikation verwendet 
    ```
 2. Gehe in das Projektverzeichnis:
 ```
-cd tmdb-app
+cd Front-End/tmdb-app
 ```
 3. Installiere die Abhängigkeiten
 ```
