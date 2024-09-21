@@ -50,7 +50,7 @@ Funktionen wie **CRUD-Operationen** (Erstellen, Lesen, Bearbeiten und Löschen) 
 
 Das folgende Diagramm zeigt die Modellklassen, die in der Applikation verwendet werden:
 
-![[1.png]]
+![image](https://github.com/user-attachments/assets/65e78da6-79fe-4076-8148-6b9dad5a9a94)
 
 ---
 
@@ -61,20 +61,20 @@ Das folgende Diagramm zeigt die Modellklassen, die in der Applikation verwendet 
 - Er kann nach spezifischen Filmen suchen.
 - Er kann Filme zur Watchlist hinzufügen.
 
-![[startseite.png]]
+![image](https://github.com/user-attachments/assets/2a1baa57-6ece-43ad-ba4b-3700af25484e)
 ### Filmdetails:
 - Der Benutzer klickt auf einen Film und sieht detaillierte Informationen, wie Beschreibung, Genres und Bewertung.
 
-![[details.png]]
+![image](https://github.com/user-attachments/assets/4b2b8871-5bcc-450f-994c-a1316a9e81a1)
 ### Watchlist:
 - Der Benutzer wechselt zur Watchlist und sieht alle hinzugefügten Filme.
 - Der Benutzer kann Filme aus der Watchlist entfernen.
 
-![[watchlist.png]]
+![image](https://github.com/user-attachments/assets/ae10fcd5-a28f-4556-9111-4d9c10f4e7cc)
 ### About:
 - Der Benutzer erhält die Information wozu die Seite dient.
 
-![[about.png]]
+![image](https://github.com/user-attachments/assets/8a19a708-31da-4161-a27e-ed3bf7707e6c)
 
 --- 
 ## Screen-Mockups
@@ -115,7 +115,7 @@ Das folgende Diagramm zeigt die Modellklassen, die in der Applikation verwendet 
 
 ### Testfälle
 
-![[Pasted image 20240918183857.png]]
+![image](https://github.com/user-attachments/assets/073282b6-99e0-468d-8462-e6570d3fc5b7)
 
 ---
 
@@ -148,3 +148,10 @@ REACT_APP_TMDB_API_KEY=your_api_key
 ```
 npm start
 ```
+
+---
+
+## Hilfestellungen
+
+- Dokumentation der TMDb-API genutzt: https://developer.themoviedb.org/docs/getting-started.
+
